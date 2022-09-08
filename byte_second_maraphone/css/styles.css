@@ -43,6 +43,12 @@ body {
     margin-top: 14px;
 }
 
+.hdr__logo > a {
+    display: block;
+    width: 79px;
+    height: 24px;
+}
+
 .hdr__navi {
     align-self: center;
     margin-top: 14px;
